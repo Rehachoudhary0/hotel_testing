@@ -37,6 +37,7 @@ body:
       label: "🎲 App version"
       description: "What version of App are you running?"
       options:
+        - Version 22.09.29+01
         - Version 22.09.28+01
         - Version 22.09.27+01
         - Different version (specify in environment)
@@ -46,7 +47,7 @@ body:
     id: operating-system
     attributes:
       label: "💻 Operating system"
-      description: "What OS is your server / device running on?"
+      description: "What OS is your device / device running on?"
       options:
         - Android
         - iOS

@@ -1,3 +1,14 @@
+## 22.09.29+01
+- Assigned room list UI redesign and ready for testing
+- Chat UI alignment fixed
+- Search hotel page #215 fixed
+- Traveler Food list page #214 fixed
+- Admin app refresh #212 fixed
+- Hotel Food order #210 fixed
+- Order detail page of hotel #209 fixed
+- Room assign page of hotel #208 fixed
+- book location search #202 fixed
+
 ## 22.09.28+01
 - New hotel creation UI ready for testing
 - Assigning rooms in hotel, UI redesign and ready for testing
