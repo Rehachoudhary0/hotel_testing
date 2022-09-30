@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="942ff5ea-c1e6-4065-8468-80eec279dca4" name="Changes" comment="## 22.09.28+01&#10;- New hotel creation UI ready for testing&#10;- Assigning rooms in hotel, UI redesign and ready for testing&#10;- Now room can be assigned with identity id.&#10;- In all pages when no data is available, a message is displayed with refresh button&#10;- Payment gateway bug fixed #196&#10;- Admin login bug fixed temporarily #195&#10;- #197 &amp; #198 fixed by @parveen-malik sir&#10;- book location search fixed #202">
+    <list default="true" id="942ff5ea-c1e6-4065-8468-80eec279dca4" name="Changes" comment="## 22.09.29+01&#10;- Assigned room list UI redesign and ready for testing&#10;- Chat UI alignment fixed&#10;- Search hotel page #215 fixed&#10;- Traveler Food list page #214 fixed&#10;- Admin app refresh #212 fixed&#10;- Hotel Food order #210 fixed&#10;- Order detail page of hotel #209 fixed&#10;- Room assign page of hotel #208 fixed&#10;- book location search #202 fixed">
       <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
@@ -83,7 +83,8 @@
       <updated>1664303474875</updated>
       <workItem from="1664303478100" duration="2295000" />
       <workItem from="1664323230464" duration="499000" />
-      <workItem from="1664444943458" duration="490000" />
+      <workItem from="1664444943458" duration="1418000" />
+      <workItem from="1664579451818" duration="39000" />
     </task>
     <task id="LOCAL-00001" summary="issues reporting format">
       <created>1664303966577</created>
@@ -106,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664323308784</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="## 22.09.29+01&#10;- Assigned room list UI redesign and ready for testing&#10;- Chat UI alignment fixed&#10;- Search hotel page #215 fixed&#10;- Traveler Food list page #214 fixed&#10;- Admin app refresh #212 fixed&#10;- Hotel Food order #210 fixed&#10;- Order detail page of hotel #209 fixed&#10;- Room assign page of hotel #208 fixed&#10;- book location search #202 fixed">
+      <created>1664445777701</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664445777701</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +134,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="issues reporting format" />
     <MESSAGE value="## 22.09.28+01&#10;- New hotel creation UI ready for testing&#10;- Assigning rooms in hotel, UI redesign and ready for testing&#10;- Now room can be assigned with identity id.&#10;- In all pages when no data is available, a message is displayed with refresh button&#10;- Payment gateway bug fixed #196&#10;- Admin login bug fixed temporarily #195&#10;- #197 &amp; #198 fixed by @parveen-malik sir&#10;- book location search fixed #202" />
-    <option name="LAST_COMMIT_MESSAGE" value="## 22.09.28+01&#10;- New hotel creation UI ready for testing&#10;- Assigning rooms in hotel, UI redesign and ready for testing&#10;- Now room can be assigned with identity id.&#10;- In all pages when no data is available, a message is displayed with refresh button&#10;- Payment gateway bug fixed #196&#10;- Admin login bug fixed temporarily #195&#10;- #197 &amp; #198 fixed by @parveen-malik sir&#10;- book location search fixed #202" />
+    <MESSAGE value="## 22.09.29+01&#10;- Assigned room list UI redesign and ready for testing&#10;- Chat UI alignment fixed&#10;- Search hotel page #215 fixed&#10;- Traveler Food list page #214 fixed&#10;- Admin app refresh #212 fixed&#10;- Hotel Food order #210 fixed&#10;- Order detail page of hotel #209 fixed&#10;- Room assign page of hotel #208 fixed&#10;- book location search #202 fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="## 22.09.29+01&#10;- Assigned room list UI redesign and ready for testing&#10;- Chat UI alignment fixed&#10;- Search hotel page #215 fixed&#10;- Traveler Food list page #214 fixed&#10;- Admin app refresh #212 fixed&#10;- Hotel Food order #210 fixed&#10;- Order detail page of hotel #209 fixed&#10;- Room assign page of hotel #208 fixed&#10;- book location search #202 fixed" />
   </component>
 </project>

@@ -1,3 +1,15 @@
+## 22.10.01+01
+- Hotel New check_in #229 fixed
+- Hotel Identity and room page #228 fixed
+- Hotel Checkin page #226 fixed
+- Hotel Booking page #225 Duplicate of #221
+- User food cart page #222 fixed
+- User Check-In notification #231 (There's something wrong here) Scroll to refresh added [Not fixed]
+- Hotel Checkout page #227 (There's something wrong here, need more information) [Not fixed]
+- User kitchen page #224 (400 Bad Request error in /api/user/chat/read) [Not fixed]
+- App holding previous data #221 improvement added [Not final] please review it
+- The image gets null when creating a new hotel in the app from the admin #230 (The front-end error was fixed, but the API error remained) [Not fixed from the API side]
+
 ## 22.09.29+01
 - Assigned room list UI redesign and ready for testing
 - Chat UI alignment fixed
