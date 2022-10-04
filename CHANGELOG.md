@@ -1,3 +1,13 @@
+## 22.10.05+01
+- Admin should have QR code in bottom of page #252 fixed
+- In Admin hotel QR code in should be in form field #251 fixed
+- Second user does not have a hotel name #249 [fixed temporarily]
+- User chat page #247 fixed
+- Kitchen home page #245 fixed
+- Secondry user food order in Hotel and kitchen #244 fixed
+- Hotel Checkout page #227 fixed
+- User kitchen page #224 fixed
+
 ## 22.10.01+01
 - Hotel New check_in #229 fixed
 - Hotel Identity and room page #228 fixed
