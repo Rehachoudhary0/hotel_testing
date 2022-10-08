@@ -1,3 +1,16 @@
+## 22.10.09+01
+- Hotel >chat firebase notification doesn't refresh the chat page . #265 fixed
+- User Chat Screen format not correct #263 fixed
+- User> profile validation issues . #262 fixed
+- Hotel>checking info page > identity and room buttons #261 fixed
+- At Hotel booking showing new hotel has 1 star . #259 fixed
+- Hotel Booking calculation not correct #258 fixed
+- Fiirebase notification not clickable . #250 [Improvement added]
+- User chat page #247 fixed
+- Hotel ,traveler and kitchen has remark filed . #242 Feature added
+- The image gets null when creating a new hotel in the app from the admin. #230 fixed
+- Hotel>Home and Kitchen chat count showing wrong #211 fixed
+
 ## 22.10.05+01
 - Admin should have QR code in bottom of page #252 fixed
 - In Admin hotel QR code in should be in form field #251 fixed

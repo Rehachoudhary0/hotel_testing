@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="942ff5ea-c1e6-4065-8468-80eec279dca4" name="Changes" comment="## 22.10.01+01&#10;- Hotel New check_in #229 fixed&#10;- Hotel Identity and room page #228 fixed&#10;- Hotel Checkin page #226 fixed&#10;- Hotel Booking page #225 Duplicate of #221&#10;- User food cart page #222 fixed&#10;- User Check-In notification #231 (There's something wrong here) Scroll to refresh added [Not fixed]&#10;- Hotel Checkout page #227 (There's something wrong here, need more information) [Not fixed]&#10;- User kitchen page #224 (400 Bad Request error in /api/user/chat/read) [Not fixed]&#10;- App holding previous data #221 improvement added [Not final] please review it &#10;- The image gets null when creating a new hotel in the app from the admin #230 (The front-end error was fixed, but the API error remained) [Not fixed from the API side]" />
+    <list default="true" id="942ff5ea-c1e6-4065-8468-80eec279dca4" name="Changes" comment="## 22.10.01+01&#10;- Hotel New check_in #229 fixed&#10;- Hotel Identity and room page #228 fixed&#10;- Hotel Checkin page #226 fixed&#10;- Hotel Booking page #225 Duplicate of #221&#10;- User food cart page #222 fixed&#10;- User Check-In notification #231 (There's something wrong here) Scroll to refresh added [Not fixed]&#10;- Hotel Checkout page #227 (There's something wrong here, need more information) [Not fixed]&#10;- User kitchen page #224 (400 Bad Request error in /api/user/chat/read) [Not fixed]&#10;- App holding previous data #221 improvement added [Not final] please review it &#10;- The image gets null when creating a new hotel in the app from the admin #230 (The front-end error was fixed, but the API error remained) [Not fixed from the API side]">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,6 +83,7 @@
       <workItem from="1664323230464" duration="499000" />
       <workItem from="1664444943458" duration="1418000" />
       <workItem from="1664579451818" duration="87000" />
+      <workItem from="1664917937051" duration="534000" />
     </task>
     <task id="LOCAL-00001" summary="issues reporting format">
       <created>1664303966577</created>
@@ -117,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664579527807</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="## 22.10.01+01&#10;- Hotel New check_in #229 fixed&#10;- Hotel Identity and room page #228 fixed&#10;- Hotel Checkin page #226 fixed&#10;- Hotel Booking page #225 Duplicate of #221&#10;- User food cart page #222 fixed&#10;- User Check-In notification #231 (There's something wrong here) Scroll to refresh added [Not fixed]&#10;- Hotel Checkout page #227 (There's something wrong here, need more information) [Not fixed]&#10;- User kitchen page #224 (400 Bad Request error in /api/user/chat/read) [Not fixed]&#10;- App holding previous data #221 improvement added [Not final] please review it &#10;- The image gets null when creating a new hotel in the app from the admin #230 (The front-end error was fixed, but the API error remained) [Not fixed from the API side]">
+      <created>1664918044588</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664918044588</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
