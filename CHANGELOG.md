@@ -1,3 +1,10 @@
+## 22.10.16+01
+- After user food reviews need to refresh the page even back to page . #278 fixed
+- User review of food page UI is not good need to review #277 fixed
+- Kitchen dones't get notification of food from primary and secondary user. #276 fixed
+- user get firebase notification of food status on this needs to be auto udate in user API. #273 fixed
+- Hotel / Kitchen home chat of primary and secondary user showing null name #268 fixed
+
 ## 22.10.09+01
 - Hotel >chat firebase notification doesn't refresh the chat page . #265 fixed
 - User Chat Screen format not correct #263 fixed
