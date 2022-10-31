@@ -31,6 +31,28 @@ body:
       label: "👎 Actual Behavior"
       description: "What did actually happen? Add screenshots, if applicable."
       placeholder: "It actually ..."
+  - type: textarea
+    id: Log-in-number
+    validations:
+      required: true
+    attributes:
+      label: "☎️ Log-in number"
+      description: "What is number you tested?"
+      placeholder: "Log-in number is ..."
+  - type: dropdown
+    id: user-type
+    attributes:
+      label: "📲 User Type"
+      description: "Select the user type that best describes you"
+      options:
+        - Admin
+        - Hotel
+        - Kitchen
+        - Traveller - Primary
+        - Traveller - Secondary
+        - Other
+    validations:
+      required: true
   - type: dropdown
     id: appwrite-version
     attributes:
