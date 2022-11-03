@@ -1,3 +1,14 @@
+## 22.11.03+01
+- In hotel app > Notification API is not working #292 fixed
+- Kitchen dones't get notification of food from primary and secondary user. #276 fixed
+- Hotel home page not showing food order . #297 fixed
+- Hotel Check-in request notification wrong . #294 fixed
+- New hotel booking hotel notification. #293 fixed by @parveen-malik sir
+- Notification API is not working #292 fixed
+- Food Order delivered data list not showing in app #289 fixed
+- remark must be removed when a user doesn't give any remark with food ordering. #286 fixed
+- Kitchen dones't get notification of food from primary and secondary user. #276 fixed
+
 ## 22.10.16+01
 - After user food reviews need to refresh the page even back to page . #278 fixed
 - User review of food page UI is not good need to review #277 fixed
