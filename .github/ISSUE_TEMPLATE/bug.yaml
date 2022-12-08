@@ -59,8 +59,8 @@ body:
       label: "🎲 App version"
       description: "What version of App are you running?"
       options:
+        - Version 22.12.08+02
         - Version 22.12.08+01
-        - Version 22.11.03+01
         - Different version (specify in environment)
     validations:
       required: true

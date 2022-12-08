@@ -1,3 +1,6 @@
+## 22.12.08+02
+- User > not enable to registration #332 Fixed
+
 ## 22.12.08+01
 - User checkout not working #326 invalid
 - Home page and food list page click on list showing error . #325 Fixed
