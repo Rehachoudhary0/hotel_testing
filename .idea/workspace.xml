@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="942ff5ea-c1e6-4065-8468-80eec279dca4" name="Changes" comment="bug issue update">
-      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
-    </list>
+    <list default="true" id="942ff5ea-c1e6-4065-8468-80eec279dca4" name="Changes" comment="## 22.11.03+01&#10;- In hotel app &gt; Notification API is not working #292 fixed&#10;- Kitchen dones't get notification of food from primary and secondary user. #276 fixed&#10;- Hotel home page not showing food order . #297 fixed&#10;- Hotel Check-in request notification wrong . #294 fixed&#10;- New hotel booking hotel notification. #293 fixed by @parveen-malik sir &#10;- Notification API is not working #292 fixed&#10;- Food Order delivered data list not showing in app #289 fixed&#10;- remark must be removed when a user doesn't give any remark with food ordering. #286 fixed&#10;- Kitchen dones't get notification of food from primary and secondary user. #276 fixed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +85,7 @@
       <workItem from="1665270158741" duration="689000" />
       <workItem from="1665868771368" duration="80000" />
       <workItem from="1667232954059" duration="1703000" />
-      <workItem from="1667492529400" duration="54000" />
+      <workItem from="1667492529400" duration="81000" />
     </task>
     <task id="LOCAL-00001" summary="issues reporting format">
       <created>1664303966577</created>
@@ -154,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667234049396</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="## 22.11.03+01&#10;- In hotel app &gt; Notification API is not working #292 fixed&#10;- Kitchen dones't get notification of food from primary and secondary user. #276 fixed&#10;- Hotel home page not showing food order . #297 fixed&#10;- Hotel Check-in request notification wrong . #294 fixed&#10;- New hotel booking hotel notification. #293 fixed by @parveen-malik sir &#10;- Notification API is not working #292 fixed&#10;- Food Order delivered data list not showing in app #289 fixed&#10;- remark must be removed when a user doesn't give any remark with food ordering. #286 fixed&#10;- Kitchen dones't get notification of food from primary and secondary user. #276 fixed">
+      <created>1667492596307</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667492596307</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,6 +182,7 @@
     <MESSAGE value="## 22.10.09+01&#10;- Hotel &gt;chat firebase notification doesn't refresh the chat page . #265 fixed&#10;- User Chat Screen format not correct #263 fixed&#10;- User&gt; profile validation issues . #262 fixed&#10;- Hotel&gt;checking info page &gt; identity and room buttons #261 fixed&#10;- At Hotel booking showing new hotel has 1 star . #259 fixed&#10;- Hotel Booking calculation not correct #258 fixed&#10;- Fiirebase notification not clickable . #250 [Improvement added]&#10;- User chat page #247 fixed&#10;- Hotel ,traveler and kitchen has remark filed . #242 Feature added&#10;- The image gets null when creating a new hotel in the app from the admin. #230 fixed&#10;- Hotel&gt;Home and Kitchen chat count showing wrong #211 fixed" />
     <MESSAGE value="## 22.10.16+01&#10;- After user food reviews need to refresh the page even back to page . #278 fixed&#10;- User review of food page UI is not good need to review #277 fixed&#10;- Kitchen dones't get notification of food from primary and secondary user. #276 fixed&#10;- user get firebase notification of food status on this needs to be auto udate in user API. #273 fixed&#10;- Hotel / Kitchen home chat of primary and secondary user showing null name #268 fixed" />
     <MESSAGE value="bug issue update" />
-    <option name="LAST_COMMIT_MESSAGE" value="bug issue update" />
+    <MESSAGE value="## 22.11.03+01&#10;- In hotel app &gt; Notification API is not working #292 fixed&#10;- Kitchen dones't get notification of food from primary and secondary user. #276 fixed&#10;- Hotel home page not showing food order . #297 fixed&#10;- Hotel Check-in request notification wrong . #294 fixed&#10;- New hotel booking hotel notification. #293 fixed by @parveen-malik sir &#10;- Notification API is not working #292 fixed&#10;- Food Order delivered data list not showing in app #289 fixed&#10;- remark must be removed when a user doesn't give any remark with food ordering. #286 fixed&#10;- Kitchen dones't get notification of food from primary and secondary user. #276 fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="## 22.11.03+01&#10;- In hotel app &gt; Notification API is not working #292 fixed&#10;- Kitchen dones't get notification of food from primary and secondary user. #276 fixed&#10;- Hotel home page not showing food order . #297 fixed&#10;- Hotel Check-in request notification wrong . #294 fixed&#10;- New hotel booking hotel notification. #293 fixed by @parveen-malik sir &#10;- Notification API is not working #292 fixed&#10;- Food Order delivered data list not showing in app #289 fixed&#10;- remark must be removed when a user doesn't give any remark with food ordering. #286 fixed&#10;- Kitchen dones't get notification of food from primary and secondary user. #276 fixed" />
   </component>
 </project>

@@ -1,3 +1,24 @@
+## 22.12.08+01
+- User checkout not working #326 invalid
+- Home page and food list page click on list showing error . #325 Fixed
+- Booking cancel status is not update in hotel booking list page. #324 Fixed
+- Booking is showing 1 night into 0 night . #323 Fixed
+- Top destination not clickable. #322 Fixed
+- User Profile save working slow. #321 Fixed
+- In User app Hotel reviews has getting error in first time . #320 Fixed
+- Users get notifications on the status of food but there is no change on the Home Screen food list items #319 invalid
+- Chat page is also not get refresh on notification. #318 Fixed
+- Hotel home page chat list does not get refreshed #317 Fixed
+- Auto logout not working when 2 device has same number. #316 Fixed
+- last visit page review has to be updated when user give reviews to hotel . #315 Fixed
+- chat letest count not getting properly according to rooms in case checkin with multiple #312 Fixed
+- Booking status need to update on every step #302 Fixed
+- when same user or hotel login in another device first device is not logged out #301 Fixed
+- Hotel count refresh issue #300 Fixed
+- Primary and secondary user notification clickable issues #299 In-Progress
+- User home page not getting refresh on food status notification. #298 Fixed
+- Android version 11 RP1A.200720.011 ,red note 11T 5 g has food ordering issues. #296 Fixed
+
 ## 22.11.03+01
 - In hotel app > Notification API is not working #292 fixed
 - Kitchen dones't get notification of food from primary and secondary user. #276 fixed
