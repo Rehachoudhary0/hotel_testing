@@ -1,3 +1,6 @@
+## 22.12.09+01
+- Hotel > chat text getting 2 times in chat page . #327 Fixed
+
 ## 22.12.08+02
 - User > not enable to registration #332 Fixed
 
