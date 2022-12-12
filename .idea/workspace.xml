@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="942ff5ea-c1e6-4065-8468-80eec279dca4" name="Changes" comment="## 22.12.08+02&#10;- User &gt; not enable to registration #332 Fixed">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="942ff5ea-c1e6-4065-8468-80eec279dca4" name="Changes" comment="## 22.12.09+01&#10;- Hotel &gt; chat text getting 2 times in chat page . #327 Fixed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,6 +89,7 @@
       <workItem from="1670466981303" duration="77000" />
       <workItem from="1670519301288" duration="135000" />
       <workItem from="1670579921966" duration="16000" />
+      <workItem from="1670589404660" duration="190000" />
     </task>
     <task id="LOCAL-00001" summary="issues reporting format">
       <created>1664303966577</created>
@@ -176,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670519359292</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="## 22.12.09+01&#10;- Hotel &gt; chat text getting 2 times in chat page . #327 Fixed">
+      <created>1670589443243</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1670589443243</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +210,7 @@
     <MESSAGE value="## 22.11.03+01&#10;- In hotel app &gt; Notification API is not working #292 fixed&#10;- Kitchen dones't get notification of food from primary and secondary user. #276 fixed&#10;- Hotel home page not showing food order . #297 fixed&#10;- Hotel Check-in request notification wrong . #294 fixed&#10;- New hotel booking hotel notification. #293 fixed by @parveen-malik sir &#10;- Notification API is not working #292 fixed&#10;- Food Order delivered data list not showing in app #289 fixed&#10;- remark must be removed when a user doesn't give any remark with food ordering. #286 fixed&#10;- Kitchen dones't get notification of food from primary and secondary user. #276 fixed" />
     <MESSAGE value="## 22.12.08+01&#10;- User checkout not working #326 invalid&#10;- Home page and food list page click on list showing error . #325 Fixed&#10;- Booking cancel status is not update in hotel booking list page. #324 Fixed&#10;- Booking is showing 1 night into 0 night . #323 Fixed&#10;- Top destination not clickable. #322 Fixed&#10;- User Profile save working slow. #321 Fixed&#10;- In User app Hotel reviews has getting error in first time . #320 Fixed&#10;- Users get notifications on the status of food but there is no change on the Home Screen food list items #319 invalid&#10;- Chat page is also not get refresh on notification. #318 Fixed&#10;- Hotel home page chat list does not get refreshed #317 Fixed&#10;- Auto logout not working when 2 device has same number. #316 Fixed&#10;- last visit page review has to be updated when user give reviews to hotel . #315 Fixed&#10;- chat letest count not getting properly according to rooms in case checkin with multiple #312 Fixed&#10;- Booking status need to update on every step #302 Fixed&#10;- when same user or hotel login in another device first device is not logged out #301 Fixed&#10;- Hotel count refresh issue #300 Fixed&#10;- Primary and secondary user notification clickable issues #299 In-Progress&#10;- User home page not getting refresh on food status notification. #298 Fixed&#10;- Android version 11 RP1A.200720.011 ,red note 11T 5 g has food ordering issues. #296 Fixed" />
     <MESSAGE value="## 22.12.08+02&#10;- User &gt; not enable to registration #332 Fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="## 22.12.08+02&#10;- User &gt; not enable to registration #332 Fixed" />
+    <MESSAGE value="## 22.12.09+01&#10;- Hotel &gt; chat text getting 2 times in chat page . #327 Fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="## 22.12.09+01&#10;- Hotel &gt; chat text getting 2 times in chat page . #327 Fixed" />
   </component>
 </project>

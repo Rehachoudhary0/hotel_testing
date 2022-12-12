@@ -1,3 +1,6 @@
+## 22.12.12+01
+- User > registration data saved one time but user not able to go home page . #339 Fixed
+
 ## 22.12.09+01
 - Hotel > chat text getting 2 times in chat page . #327 Fixed
 
