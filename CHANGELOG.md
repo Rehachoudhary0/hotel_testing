@@ -1,3 +1,6 @@
+## 23.01.11+02
+- Firebase Crashlytics added
+
 ## 22.12.12+01
 - User > registration data saved one time but user not able to go home page . #339 Fixed
 
